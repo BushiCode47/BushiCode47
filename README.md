@@ -7,9 +7,28 @@ I have knowledge in IT infrastructure management, DevOps automation, and securit
   - Docker & K8s
   - DevOps
   - Python & Bash Scripting
-### Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' width='150'/> <img src = 'https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515' width='100'/>
- 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Programming Languages</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,py,bash&perline=14" />
+  </a>
+</p>
+ <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,github,linux,mysql,vscode,kubernetes&perline=14" />
+  </a>
+</p>
 <!--
 **BushiCode47/BushiCode47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
