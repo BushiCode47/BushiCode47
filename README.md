@@ -6,6 +6,7 @@ I have knowledge in IT infrastructure management, DevOps automation, and securit
   - AWS
   - Docker & K8s
   - DevOps
+  - Python & Bash Scripting
 ### Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' width='150'/> <img src = 'https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515' width='100'/>
  
