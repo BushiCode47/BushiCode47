@@ -1,8 +1,12 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am a Technician in Network and Systems Administration, specialized in Cybersecurity. Passionate about system administration, cybersecurity, pentesting and Cloud Computing, I am constantly seeking opportunities to apply and expand my knowledge in real-world environments.
 
-I have experience in IT infrastructure management, DevOps automation, and security analysis. My goal is to contribute with innovative and efficient solutions in Cybersecurity, DevOps, and Cloud Computing, ensuring robust and optimized environments.
-## Programming Languages
+I have knowledge in IT infrastructure management, DevOps automation, and security analysis, and I am continuously expanding my skills and expertise in these areas.
+- 🌱 I’m currently learning ...
+  - AWS
+  - Docker & K8s
+  - DevOps
+### Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' width='150'/> <img src = 'https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515' width='100'/>
  
 <!--
