@@ -14,6 +14,11 @@ I have knowledge in IT infrastructure management, DevOps automation, and securit
 - 🔭 I’m working in **DevOps & Infraestructure**.
 - 🌱 I’m currently working with and learning **AWS Docker K8s Python & Bash Scripting**.
 - ☁️ I've keen interest in **Cloud Computing** and **Cybersecurity**.
+ <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"></h2></summary>
+  </ul>
+</div>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Programming Languages</h2></summary>
