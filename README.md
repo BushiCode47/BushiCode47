@@ -11,7 +11,9 @@
 I am a Technician in Network and Systems Administration, specialized in Cybersecurity. Passionate about system administration, cybersecurity, pentesting and Cloud Computing, I am constantly seeking opportunities to apply and expand my knowledge in real-world environments.
 
 I have knowledge in IT infrastructure management, DevOps automation, and security analysis, and I am continuously expanding my skills and expertise in these areas.
-- 🌱 I’m currently working on **AWS Docker K8s Python & Bash Scripting**
+- 🔭 I’m working in **DevOps & Infraestructure**.
+- 🌱 I’m currently working with and learning **AWS Docker K8s Python & Bash Scripting**.
+- ☁️ I've keen interest in **Cloud Computing** and **Cybersecurity**.
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Programming Languages</h2></summary>
