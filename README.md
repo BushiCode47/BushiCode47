@@ -3,6 +3,11 @@
     <summary><h1 style="display: inline-block">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm BushiCode</h1></summary>
   </ul>
 </div>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 I am a Technician in Network and Systems Administration, specialized in Cybersecurity. Passionate about system administration, cybersecurity, pentesting and Cloud Computing, I am constantly seeking opportunities to apply and expand my knowledge in real-world environments.
 
 I have knowledge in IT infrastructure management, DevOps automation, and security analysis, and I am continuously expanding my skills and expertise in these areas.
