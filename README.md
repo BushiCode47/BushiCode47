@@ -23,7 +23,7 @@ I have knowledge in IT infrastructure management, DevOps automation, and securit
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,py,bash,git,docker,github,linux,mysql,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=md,py,bash,git,docker,github,linux,mysql,kubernetes,prometheus,grafana,elasticsearch&perline=14" />
   </a>
 </p>
 <!--
