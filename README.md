@@ -19,17 +19,6 @@ I have knowledge in IT infrastructure management, DevOps automation, and securit
     <summary><h2 style="display: inline-block"></h2></summary>
   </ul>
 </div>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Programming Languages</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,py,bash&perline=14" />
-  </a>
-</p>
  <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
@@ -38,7 +27,7 @@ I have knowledge in IT infrastructure management, DevOps automation, and securit
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,linux,mysql,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=md,py,bash,git,docker,github,linux,mysql,vscode,kubernetes&perline=14" />
   </a>
 </p>
 <!--
